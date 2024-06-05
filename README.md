@@ -25,7 +25,7 @@ It offers a user-friendly interface where users can upload code files then it re
     Branch: main
     Main file path: src/main.py
     App URL (optional): coderefactor.streamlit.app
-    Secrets: Copy paste content of secrets.toml file
+    Secrets: put your secrets key-value here as OPEN_AI_KEY="value_here"
 3. You should able to see running app on url: https://coderefactor.streamlit.app/
 4. Click on 'Manage app' to see the logs
 
