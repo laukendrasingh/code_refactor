@@ -3,7 +3,6 @@ from dotenv import load_dotenv
 import logging as log
 
 load_dotenv()
-load_dotenv('.env.'+os.environ['ENVIRONMENT'])
 
 LOG_LEVEL = os.environ['LOG_LEVEL']
 LOG_FILE_PATH = os.environ['LOG_FILE_PATH']
