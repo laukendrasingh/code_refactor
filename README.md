@@ -4,7 +4,7 @@ It offers a user-friendly interface where users can upload code files then it re
 
 ### PROJECT SETUP:
 1. Checkout source code: https://git.impressicocrm.com/impressico-ai-mgmt/impressico-general/pocs/-/tree/laukendra_singh_code_refactor
-2. Activate venv: source learn-env/bin/activate
+2. Create env "python3 -m venv learn-env" and then activate venv "source learn-env/bin/activate"
 3. Install dependency: pip3 install -r requirements.txt
 4. Run app: streamlit run src/main.py
 5. Make sure you have added .env.dev file and added the required api-key
