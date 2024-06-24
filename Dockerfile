@@ -1,3 +1,5 @@
+#IT'S NOT USING IN POC. ADDED ONLY FOR LEARNING.
+
 # Use an official python runtime as a parent image
 FROM python:3.8-slim
 
