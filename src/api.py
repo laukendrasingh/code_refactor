@@ -1,3 +1,5 @@
+#IT'S NOT USING IN POC. ADDED ONLY FOR LEARNING.
+
 from flask import Flask, jsonify, request
 from config import *
 from models import OpenAIModel, ChatGptModel
